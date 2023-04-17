@@ -8649,7 +8649,7 @@ button#go-up:hover #percent {
 
 [data-theme="dark"] #aside-content>.card-widget.card-info {
   /* background-image: url(https://tuchuang.voooe.cn/images/2023/02/28/aurora.webp); */
-  background-color: #000;
+  background-color: #fff;
   background-repeat: no-repeat;
   background-attachment: inherit;
   background-size: 100%;
