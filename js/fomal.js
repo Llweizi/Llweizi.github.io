@@ -1119,11 +1119,11 @@ function createtime1() {
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到李维梓の小家!`,
+    `欢迎来到维梓的小家!`,
 
     `
         
-█
+█ 
                                              
 `,
     "小站已经苟活",
@@ -1168,7 +1168,7 @@ function createtime2() {
   setTimeout(
     console.warn.bind(
       console,
-      "%c ⚡ Powered by lwz %c 你正在访问维梓の小家",
+      "%c ⚡ Powered by lwz %c 你正在访问维梓的小家",
       "color:white; background-color:#f0ad4e",
       ""
     )
@@ -3170,8 +3170,8 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://picbed.lwzblog.com/img/mark1.webp);
-    --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
+    --default-bg: url(https://picbed.lwzblog.com/img/mark4.webp);
+    --darkmode-bg:url('https://picbed.lwzblog.com/img/bg2.webp');
     --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
     --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
   }`;
