@@ -54,7 +54,7 @@ function tonav() {
     position = scroll;
   });
   //修复没有弄右键菜单的童鞋无法回顶部的问题
-  document.getElementById("page-name").innerText = document.title.split(" | Fomalhaut🥝")[0];
+  document.getElementById("page-name").innerText = document.title.split(" | lwz'sblog")[0];
 }
 
 function scrollToTop() {
@@ -623,17 +623,17 @@ function owoBig() {
 /* 随便逛逛 start */
 // 随便逛逛
 // 发现有时会和当前页面重复，加一个判断
-function randomPost() {
-  fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {
-    let ls = data.querySelectorAll('url loc');
-    while (true) {
-      let url = ls[Math.floor(Math.random() * ls.length)].innerHTML;
-      if (location.href == url) continue;
-      location.href = url;
-      return;
-    }
-  })
-}
+// function randomPost() {
+//   fetch('/baidusitemap.xml').then(res => res.text()).then(str => (new window.DOMParser()).parseFromString(str, "text/xml")).then(data => {
+//     let ls = data.querySelectorAll('url loc');
+//     while (true) {
+//       let url = ls[Math.floor(Math.random() * ls.length)].innerHTML;
+//       if (location.href == url) continue;
+//       location.href = url;
+//       return;
+//     }
+//   })
+// }
 /* 随便逛逛 end */
 
 //----------------------------------------------------------------
@@ -3171,9 +3171,9 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://picbed.lwzblog.com/img/mark4.webp);
-    --darkmode-bg:url('https://picbed.lwzblog.com/img/bg2.webp');
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --darkmode-bg:url(https://picbed.lwzblog.com/img/bg2.webp);
+    --mobileday-bg: url(https://picbed.lwzblog.com/img/b.webp);
+    --mobilenight-bg: url(https://picbed.lwzblog.com/img/n.webp);
   }`;
 }
 // 切换背景主函数
@@ -3413,7 +3413,7 @@ function createWinbox() {
   <h3>2. 适配手机</h3>
   <details class="folding-tag" cyan><summary> 查看适配手机的背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)" class="pimgbox" onclick="changeBg('url(https://lskypro.acozycotage.net/Fomalhaut/img/mb4.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://picbed.lwzblog.com/img/b.webp)" class="pimgbox" onclick="changeBg('url(https://picbed.lwzblog.com/img/n.webp)')"></a></div>
               </div>
             </details>
   

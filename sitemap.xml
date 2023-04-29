@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://lwzblog.com/box/gallery/index.html</loc>
+    <loc>https://lwzblog.com/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://lwzblog.com/box/nav/index.html</loc>
+    <loc>https://lwzblog.com/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -202,7 +202,7 @@
 
   <url>
     <loc>https://lwzblog.com/</loc>
-    <lastmod>2023-04-28</lastmod>
+    <lastmod>2023-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -210,14 +210,14 @@
   
   <url>
     <loc>https://lwzblog.com/tags/JavaScript/</loc>
-    <lastmod>2023-04-28</lastmod>
+    <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lwzblog.com/tags/webAPIs/</loc>
-    <lastmod>2023-04-28</lastmod>
+    <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -226,14 +226,14 @@
   
   <url>
     <loc>https://lwzblog.com/categories/JavaScript/</loc>
-    <lastmod>2023-04-28</lastmod>
+    <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lwzblog.com/categories/webAPIs/</loc>
-    <lastmod>2023-04-28</lastmod>
+    <lastmod>2023-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
