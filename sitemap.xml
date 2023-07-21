@@ -2,6 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lwzblog.com/life/pic/index.html</loc>
+    
+    <lastmod>2023-07-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lwzblog.com/test6/index.html</loc>
+    
+    <lastmod>2023-07-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lwzblog.com/test5/index.html</loc>
+    
+    <lastmod>2023-07-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lwzblog.com/test3/index.html</loc>
+    
+    <lastmod>2023-07-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lwzblog.com/test4/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lwzblog.com/test2/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lwzblog.com/test1/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lwzblog.com/test/index.html</loc>
+    
+    <lastmod>2023-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lwzblog.com/site/time/index.html</loc>
     
     <lastmod>2023-05-01</lastmod>
@@ -20,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://lwzblog.com/test/index.html</loc>
-    
-    <lastmod>2023-04-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lwzblog.com/personal/about/index.html</loc>
     
     <lastmod>2023-04-27</lastmod>
@@ -39,15 +102,6 @@
   
   <url>
     <loc>https://lwzblog.com/site/sitemore/index.html</loc>
-    
-    <lastmod>2023-04-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lwzblog.com/life/pic/index.html</loc>
     
     <lastmod>2023-04-27</lastmod>
     
@@ -182,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://lwzblog.com/box/gallery/index.html</loc>
+    <loc>https://lwzblog.com/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -191,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://lwzblog.com/box/nav/index.html</loc>
+    <loc>https://lwzblog.com/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -211,7 +265,7 @@
 
   <url>
     <loc>https://lwzblog.com/</loc>
-    <lastmod>2023-05-02</lastmod>
+    <lastmod>2023-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -219,21 +273,21 @@
   
   <url>
     <loc>https://lwzblog.com/tags/JavaScript/</loc>
-    <lastmod>2023-05-02</lastmod>
+    <lastmod>2023-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lwzblog.com/tags/echarts/</loc>
-    <lastmod>2023-05-02</lastmod>
+    <lastmod>2023-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lwzblog.com/tags/webAPIs/</loc>
-    <lastmod>2023-05-02</lastmod>
+    <lastmod>2023-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -242,21 +296,21 @@
   
   <url>
     <loc>https://lwzblog.com/categories/JavaScript/</loc>
-    <lastmod>2023-05-02</lastmod>
+    <lastmod>2023-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lwzblog.com/categories/echarts/</loc>
-    <lastmod>2023-05-02</lastmod>
+    <lastmod>2023-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lwzblog.com/categories/webAPIs/</loc>
-    <lastmod>2023-05-02</lastmod>
+    <lastmod>2023-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
